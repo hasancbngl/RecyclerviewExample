@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Listwith Recyclerview</string>
+    <string name="day">Day:</string>
+</resources>
